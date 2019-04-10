@@ -25,6 +25,6 @@ Todos estos features permite trabajar diversas técnicas y abordajes de las mism
 
 # Análisis y visualización de datos: 
 
-El notebook y el dataset de este práctico estan en la carpeta:
+El notebook y el dataset de este práctico están en la carpeta:
 
 Mentoria Analisis y Visualización de Datos 
