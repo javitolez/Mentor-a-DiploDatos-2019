@@ -1,4 +1,4 @@
-# Mentor-a-DiploDatos-2019
+# Mentoria-DiploDatos-2019
 Mentoría DiploDatos 2019
 
 # Diplomatura AACSyA 2018 - FaMAF - UNC
