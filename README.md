@@ -3,7 +3,7 @@ Mentoría DiploDatos 2019
 
 # Diplomatura AACSyA 2018 - FaMAF - UNC
 
-Este repositorio contiene los trabajos practicos a trabajar durante la Diplomatura 2019.
+Este repositorio contiene los trabajos prácticos a trabajar durante la Diplomatura 2019.
 
 # Titulo de la mentoria : Análisis del mercado inmobiliario de la Ciudad de Buenos Aires 2017
 
