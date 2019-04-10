@@ -8,6 +8,7 @@ Este repositorio contiene los trabajos prácticos a trabajar durante la Diplomat
 # Titulo de la mentoria : Análisis del mercado inmobiliario de la Ciudad de Buenos Aires 2017
 
 Mentoria facilitada por: Javier Lezama
+
 email: javitolez@gmail.com
 
 # Descripción del problema o dataset
