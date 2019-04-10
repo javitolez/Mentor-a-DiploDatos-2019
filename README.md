@@ -21,4 +21,10 @@ Trabajaremos con un dataset de propiedades en ventas publicadas en el sitio web 
 Etc.
 Siendo estas de carácter categóricas, cualitativas, continuas, discretas,etc.
 
-Todos estos features permite trabajar diversas técnicas y abordajes de las misma a lo largo de la diplomatura.  
+Todos estos features permite trabajar diversas técnicas y abordajes de las misma a lo largo de la diplomatura. 
+
+# Análisis y visualización de datos: 
+
+El notebook y el dataset de este práctico estan en la carpeta:
+
+Mentoria Analisis y Visualización de Datos 
