@@ -20,4 +20,5 @@ Trabajaremos con un dataset de propiedades en ventas publicadas en el sitio web 
 * Superficie total en metros cuadrados.
 Etc.
 Siendo estas de carácter categóricas, cualitativas, continuas, discretas,etc.
+
 Todos estos features permite trabajar diversas técnicas y abordajes de las misma a lo largo de la diplomatura.  
